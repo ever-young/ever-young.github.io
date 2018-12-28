@@ -1,0 +1,20 @@
+# Site settings
+name: 张泽旭
+location: 上海
+company: Augmentum
+position: 助理软件工程师
+github: https://github.com/AsahiLuna/
+phone: 1589735XXXX
+email: asahi@alpgo.cc
+
+baseurl: ""
+
+avatarUrl: "https://images.alpgo.cc/images/avatar-asahiluna.png"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
